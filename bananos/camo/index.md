@@ -35,7 +35,8 @@ if you XOR
 ban_1hideez: CAA880703A4E6610A53E0F7EA65AFE292DD8E7D7E97F85A21894B91DA7496FAA
 ban_17d9bcx: A468A18F71213BE2B8F7EBD22DE5544186F82F879930E1195E72B069F01A161E
 you get:     6EC021FF4B6F5DF21DC9E4AC8BBFAA68AB20C850704F64BB46E60974575379B4
-
+Account:     ban_1hnuqjn9oakees4oy1igzscou75od4p4ypzyq4pepoxptj7owbr4jzmowchu
+Monkey:  ![ban_1keby.svg](ban_1keby.svg "monKey")
 
 # send funds from ban_1camo to ban_1hideez
 
@@ -43,13 +44,35 @@ send your actual funds to the shared private key.
 From: ![ban_1camo](ban_1camo.svg "monKey")
 To:   ![ban_1hideez.svg](ban_1hideez.svg "monKey")
 
-# encode shared 
+# encode masked private key 
 
+split 6EC021FF4B6F5DF21DC9E4AC8BBFAA68AB20C850704F64BB46E60974575379B4 into three amounts, and send the three amounts to ban_3camo from bananobet:
+
+6EC021FF4B6F5DF21DC9E4 => 1.10133889161660794165723515364 BAN
+AC8BBFAA68AB20C850704F => 1.20208595185522205718572200015 BAN
+64BB46E60974575379B4   => 1.30475691298209970791872948000 BAN
 
 # recieve funds at ban_1hideez
 
-since ban\_3camo knows she will be recieving funds from ban\_1camo at their shared secret ban\_17d9 they just check the blockchain for any funds at ban\_17d9.  They then move those funds to ban\_1mixmkg, securing them from being taken back by ban\_1camo, but never proving that ban\_3camo was involved in the transaction. ban\_1camo knows that ban\_3camo moved the funds, because only they can know the shared secret.
+ban\_3camo sees three blocks come in from bananobet with 1.x amount of BAN.
+She does the reverse conversion (the block order comes from the first decimal place after the decimal):
+1.10133889161660794165723515364 -> 6EC021FF4B6F5DF21DC9E4
+1.20208595185522205718572200015 => AC8BBFAA68AB20C850704F
+1.30475691298209970791872948000 => 64BB46E60974575379B4
+
+This makes the seed: 
+
+6EC021FF4B6F5DF21DC9E4AC8BBFAA68AB20C850704F64BB46E60974575379B4
+
+The then XORs it with their shared secret to get:
+
+CAA880703A4E6610A53E0F7EA65AFE292DD8E7D7E97F85A21894B91DA7496FAA : ban_1hideez
+
+So all the world sees is three transactions from bananobet to ban\_3camo.
+
+ban\_3camo then move those funds to ban\_1mixmkg, securing them from being taken back by ban\_1camo, but never proving that ban\_3camo was involved in the transaction.  
+ban\_1camo knows that ban\_3camo moved the funds out of ban\_3camo into ban\_1mixmkg, because only ban\_1camo and ban\_3camo know the shared secret.  
 
 
-From:  ![ban_17d9.svg](ban_17d9.svg "monKey")
-To:    ![ban_1hideez](ban_1hideez.svg "monKey")
+From:  ![ban_1hideez.svg](ban_1hideez.svg "monKey")
+To:    ![ban_1mixmkg](ban_1mixmkg.svg "monKey")
