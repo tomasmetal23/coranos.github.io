@@ -1758,19 +1758,94 @@
 |1360| 🔥adn_vzla🔥#2320| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446912091530723328/PhotoGridLite_1526621800561.jpg) |
 |1361| 🔥adn_vzla🔥#2320| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446912171344003082/PhotoGridLite_1526622063816.jpg) |
 |1362| SUPER-PORN-SIÊU-KHIÊU#9083| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446915220552548375/77F.gif) |
-|1363| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1364| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1365| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1366| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1367| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1368| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1369| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-|1370| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
-
-
-
-
-
+|1363| 🔥adn_vzla🔥#2320| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446918165604073482/PhotoGridLite_1526623864511.jpg) |
+|1364| 🔥adn_vzla🔥#2320| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446918262031253514/PhotoGridLite_1526623738890.jpg) |
+|1365| Lucier Baal#1548| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/446995638954098697/NEGOCIO_REDONDO.jpg) |
+|1366| SUPER-PORN-SIÊU-KHIÊU#9083| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447005372985638912/a1.png) |
+|1367| Snappadoodle#4147| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447021100325404673/there-can-be-only-one.jpg) |
+|1368| steph#1771| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447024928815054848/5afed14a4a3e3046875785.gif) |
+|1369| steph#1771| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447034261321547796/5afeda3651f9f579639492.gif) |
+|1370| Team Junglo Arisbelyz#7758| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447034964593213440/unknown.png) |
+|1371| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447058590780620831/bananoshoe.png) |
+|1372| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447058898227036160/abbey.jpg) |
+|1373| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447058946440691712/LunchAtopASkyscraper.jpg) |
+|1374| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447058956058099713/Marilyn_Monroe_photo_pose_Seven_Year_Itch.jpg) |
+|1375| ShadwsBanano●T3AM Roulette●#7121| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447073605738692608/unknown.png) |
+|1376| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447077179109408788/11_copy.jpg) |
+|1377| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447077179109408790/800x-1_copy-1.jpg) |
+|1378| [Platano_Negro]#7469| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447079296431947786/f2bbb7295ee236a7612ce842901d2a3f.jpg) |
+|1379| ShadwsBanano●T3AM Roulette●#7121| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447079385389072385/unknown.png) |
+|1380| [Platano_Negro]#7469| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447079537386455047/images_6.jpg) |
+|1381| Snappadoodle#4147| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447090806957015051/CaptAmerPaid.jpg) |
+|1382| Snappadoodle#4147| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447092951508582401/CaptAmercheated.jpg) |
+|1383| [Platano_Negro]#7469| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447106535718518784/8fc.jpg) |
+|1384| rah🦍🇨🇦#0704| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447113584003252224/TIA.jpg) |
+|1385| ShadwsBanano●T3AM Roulette●#7121| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447114797738229770/unknown.png) |
+|1386| YoelDiDamaso22#0164| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447129987229810688/1526269873879.jpg) |
+|1387| Team Junglo Arisbelyz#7758| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447148116467122178/unknown.png) |
+|1388| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447155975384989707/General_Rules.png) |
+|1389| Mojo#8572| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447155979260526592/images-video.png) |
+|1390| Snappadoodle#4147| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447169196187713557/rules.jpg) |
+|1391| Snappadoodle#4147| 2018-05-18| ![](https://i.imgur.com/XZhzogqh.jpg) |
+|1392| renesq#4080| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447191491488776193/well-uritten-strucror-oiginal-oke-crypto-nigg-nano-has-a-fork-32467643.png) |
+|1393| Mariツ <Ivan Hater's>😣#0036| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447207452455469056/unknown.png) |
+|1394| SUPER-PORN-SIÊU-KHIÊU#9083| 2018-05-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/447210248822849536/JPEG_20180519_083323.jpg) |
+|1395| joinity#6524| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447330430102798337/JPEG_20180519_113057.jpg) |
+|1396| Nano the best#9067| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447350980237852673/hqdefault.jpg) |
+|1397| not_wello#4521| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447429701057904640/IMG_20180519_170504.jpg) |
+|1398| rascal#5431| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447476406532964352/unknown.png) |
+|1399| Anemone, Shitpoet#5586| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447499157851078676/banano.png) |
+|1400| Anemone, Shitpoet#5586| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447505080741134346/shilldeath.png) |
+|1401| ĐỊP MẸ#1642| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447657475597008906/wenblob.png) |
+|1402| FBI AGENT#4404| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447726830376714250/bognano.jpg) |
+|1403| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447796626334023690/unknown.png) |
+|1404| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447832701714694154/unknown.png) |
+|1405| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447837972541210624/unknown.png) |
+|1406| manpan#4059| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447841305167659018/unknown.png) |
+|1407| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447850768226320405/unknown.png) |
+|1408| rah🦍🇨🇦#0704| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447890508837290015/banana.jpg) |
+|1409| rah🦍🇨🇦#0704| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447892934822723584/Screen_Shot_2018-05-20_at_18.45.41.png) |
+|1410| Larisa Bananinha#5322| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447924959520620545/BANANO.png) |
+|1411| Larisa Bananinha#5322| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447925187586031616/Sem_Titulo-2.png) |
+|1412| Beef-kun#3235| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/447977327234777089/banano.png) |
+|1413| Lee#2040| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448014446066139136/bazooka_girl_by_onlymilo-d48dh91.jpg) |
+|1414| tuanthu#0396| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448075548871360532/unknown.png) |
+|1415| Snappadoodle#4147| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448108374928654336/yellow_02.jpg) |
+|1416| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448130948844748800/unknown.png) |
+|1417| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448139833638912001/unknown.png) |
+|1418| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448144961443987466/unknown.png) |
+|1419| Team Junglo Arisbelyz#7758| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448148917721366539/unknown.png) |
+|1420| Astronauta#9644| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/448150411921195018/faucet.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1420| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1430| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1440| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
+|1450| Lucier Baal#1548| 2018-05-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/446416380695281716/meme2.png) |
 
 
 
