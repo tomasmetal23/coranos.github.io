@@ -2869,8 +2869,45 @@
 | 2459 | !Jesus Brito Del Kongo#0121   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468798189948895255/Lol.png) |
 | 2460 | Astronauta Phi hành gia#9644   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468771065850757140/banano-x-bbk.gif) |
 | 2461 |  Astronauta Phi hành gia#9644  | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468770778171834368/rain-banano.gif) |
-
-
+| 2462 |   Madasiaka#4876  | 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468993058537472000/20180717_210638.png) |
+| 2463 |Daniela Radr 🎀#1734| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468993653273002004/daniela.png) |
+| 2464 |moonrocket#4312| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469002355866599424/banano-kong.png) |
+| 2465 |[El  Zamuro  del Cacao]#7469| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469010750799872011/mafia_banana_by_yann_hedan-d5yx5r5.png) |
+| 2466 |Madasiaka#4876| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469017900980633600/20180717_221954.jpg) |
+| 2467 |ipod nano#6003| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469079235311697941/banano_meme_contest_discord.png) |
+| 2468 |jesus ricardo#9234| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469141103883321354/h.png) |
+| 2469 |Mc-19051#8578| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469142909208494091/FFFFFFFFF.png) |
+| 2470 |Nenahs#4372| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469146937485033472/Nenahs.jpg) |
+| 2471 |Jesus Brito del Kongo#0121| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469146963825131551/estilo_5.png) |
+| 2472 |joinity#6524| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469156512363970563/Because_Your_Mother_Loves_Roses_18072018165822.jpg) |
+| 2473 |joinity#6524| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469156534774136842/ZomboMeme_18072018165641.jpg) |
+| 2474 |joinity#6524| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469156547180888064/Things_That_Disappear_When_You_Need_Them_18072018165229.jpg) |
+| 2475 |joinity#6524| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469156563865567232/This_Male_Has_Overslept_18072018165139.jpg) |
+| 2476 |joinity#6524| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469156598393339904/I_Bet_Hes_Thinking_About_Other_Women_18072018164300.jpg) |
+| 2477 |Mojo#8572| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469158371392618497/brain.png) |
+| 2478 |naiver#9582| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469167239678001152/king_kong.png) |
+| 2479 |rah🐿🇨🇦#0704| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469167577965396004/1iruch.png) |
+| 2480 |dayrianaj#2375| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469176033715945472/image.jpg) |
+| 2481 |Aaronkay#7776| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469178430777196545/king.jpg) |
+| 2482 |Super Betta Fish 🐠#3900| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469195636613578782/Screenshot_20180718-133515.jpg) |
+| 2483 |Bunnybeat#9430| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469214531894378527/Banano_King_2.jpg) |
+| 2484 |Karla☯#6306| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469216330588094464/king-kong-avatar-by-karla.gif) |
+| 2485 |jesus ricardo#9234| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469222018911305728/h.png) |
+| 2486 |Mc-19051#8578| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469225518365933598/dddddddd.png) |
+| 2487 |Gollo Tattoo 56#5364| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469225587261702164/1531943108520.png) |
+| 2488 |Bruno •#4784| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469233250875998208/V1.png) |
+| 2489 |Mojo#8572| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469237165046497291/kk1.png) |
+| 2490 |Raphy👑Vzla-👨👧👧 VZ^BV ♏#3594| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469239714260713492/konkongversionfulljodedera.png) |
+| 2491 |Raphy👑Vzla-👨👧👧 VZ^BV ♏#3594| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469240323286237201/konkongversionemoji.png) |
+| 2492 |HeartlessJoker♠#8153| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469251207106396211/c5f64a8eef2dda3c621761849d804b61.gif) |
+| 2493 |CaptainClaw⚔#7542| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469258679347052554/TastesBetter.jpg) |
+| 2494 |Raphy👑Vzla-👨👧👧 VZ^BV ♏#3594| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469258765494124564/moviebananus.png) |
+| 2495 |Astronauta#9644| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469262600761245708/Sem_Titulo-3.png) |
+| 2496 |HeartlessJoker♠#8153| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469279089308598272/Kongavatar.gif) |
+| 2497 |HeartlessJoker♠#8153| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469289539878387722/jokerbanano.png) |
+| 2498 |🔥adn_vzla🔥#2320| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469290914427437056/PhotoGrid_1531957823292.png) |
+| 2499 |Astronauta#9644| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469294907811561503/rain_da_banano.png) |
+| 2500 |BeardlessDuck#4387| 2018-07-18 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469312137211281430/unknown.png) |
 
 
 
