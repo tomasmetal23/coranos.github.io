@@ -2236,7 +2236,6 @@
 |1838| renesq#4080| 2018-06-08| ![](https://images-ext-2.discordapp.net/external/4-IjDkPTazoMt6YKpfbnJq8uubkc0BFlK3DqONvXpmg/%3Fwidth%3D620%26height%3D670/https/media.discordapp.net/attachments/403651674146603008/417769478500122631/bomberaudit.jpg?width=619&height=669) |
 |1839| Dev#8820| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454585367509729290/bd69fuqzmd211.png) |
 |1840| Nano the best#9067| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454619736999854083/deepfried_1528460175478.png) |
-|1840| Kabeez#1821| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454660247081189376/image.jpg) |
 |1841| Snappadoodle#4147| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454676896073121802/MAKEPIGGYPINKAGIANsmall.png) |
 |1842| Team Junglo Arisbelyz#7758| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454691603202703371/unknown.png) |
 |1843| BeardlessDuck#4387| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454693284816879616/unknown.png) |
@@ -2267,9 +2266,6 @@
 |1868| Beatrice#7931BOT| 2018-06-09| ![](https://media.giphy.com/media/4GWhfNfI2V9Fln2ymj/giphy.gif) |
 |1869| El  Zamuro  del Cacao#7469| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455082361185501184/027e08cad98536cc7e9251d4a5b30f20--cards-humor.jpg) |
 |1870| manpan#4059| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455091460857921537/thats-it.png) |
-|1868| CoinOperated1245#9875| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455123504333979650/Bernie_Banano.jpg) |
-|1869| CoinOperated1245#9875| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455135038548213770/CFC_Bathroom.png) |
-|1870| CaptainClaw⚔#7542| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455152451146874891/SaltBae.jpg) |
 |1871| Thiago#9258| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455168730683539466/unknown.png) |
 |1872| CoinOperated1245#9875| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455185976374067201/Runnerless.jpg) |
 |1873| Nano the best#9067| 2018-06-10| ![](https://cdn.discordapp.com/attachments/416341951416369153/455259362005483530/qheBt62.jpg) |
@@ -2319,8 +2315,7 @@
 |1917| Beatrice#7931BOT| 2018-06-13| ![](https://media.giphy.com/media/3bheAE9vB2vq0INqnr/giphy.gif) |
 |1918| Nano the best#9067| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456361487464660992/sfa.png) |
 |1919| Beatrice#7931BOT| 2018-06-13| ![](https://media.giphy.com/media/9PnLuQWpzNiY9U3vIo/giphy.gif) |
-|1920| ACE#9114| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456366829397344269/IMG_20180613_095834.png) 
-|
+|1920| ACE#9114| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456366829397344269/IMG_20180613_095834.png) |
 |1921| Computer_Genius#9403| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456411661809614849/Mematic_meme_20180613_065216.png) |
 |1922| Nano the best#9067| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456414276740186113/Night-Banner-1_new.jpg) |
 |1923| Computer_Genius#9403| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456416801895612418/main-qimg-2d2f73325b39d722aa8c257df3f7331d.jpeg) |
@@ -2361,6 +2356,268 @@
 |1958| BeardlessDuck#4387| 2018-06-16| ![](https://cdn.discordapp.com/attachments/416341951416369153/457625791967264789/altpurgehighlight.png3) |
 |1959| Team Junglo Arisbelyz#7758| 2018-06-16| ![](https://cdn.discordapp.com/attachments/416341951416369153/457703648793853963/unknown.png) |
 |1960| Team Junglo Arisbelyz#7758| 2018-06-16| ![](https://cdn.discordapp.com/attachments/416341951416369153/457705816636784652/unknown.png) |
+|1961| Beatrice#7931BOT| 2018-06-16| ![](https://media.discordapp.net/attachments/416341951416369153/456541560360927232/unknown.png) |
+|1962| Bananon#9695| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/457761058820587530/meme.PNG)|
+|1963| Nano the best#9067| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/457830542637924353/bg.jpg)|
+|1964| manpan#4059| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/458002005235990540/babypan.png)|
+|1965| CoinOperated1245#9875| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/458023863218077697/Nigel_Pound.jpg)|
+|1966| BeardlessDuck#4387| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/458027275796086784/unknown.png)|
+|1967| renesq#4080| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/458047733232828427/unknown.png)|
+|1968| CoinOperated1245#9875| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/458060931445030912/Nigel_Pound.jpg)|
+|1969| KRAKAKA#0257| 2018-06-17| ![](https://cdn.discordapp.com/attachments/416341951416369153/458117196049285122/wen.jpg)|
+|1970| mcd3#6341| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|1971| Nano the best#9067| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458211091634454529/20180618_115635.jpg) |
+|1972| Nano the best#9067| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458248543870910466/4.png) |
+|1973| El  Zamuro  del Cacao#7469| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458325460863156236/pizap.com15293453456871.jpg) |
+|1974| El  Zamuro  del Cacao#7469| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458333164377473044/pizap.com15293467325021.jpg) |
+|1975| Mariツ#0036| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458341214475780106/SATAN.png) |
+|1976| Mariツ#0036| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458341253453709314/Screenshot_11.png) |
+|1977| Nano the best#9067| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458388361732816927/dd.jpg) |
+|1978| Gollo Tattoo 56#5364| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458415224358305792/b609b3a44ef4df096b01c0c26b4495bf.jpg) |
+|1979| CoinOperated1245#9875| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458449282526216193/CFC_Colour.png) |
+|1980| Bananon#9695| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458457883487502337/unknown.png) |
+|1981| Bunnybeat#9430| 2018-06-18| ![](https://cdn.discordapp.com/attachments/416341951416369153/458474075011153932/images_1.jpg) |
+|1982| Bananon#9695| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/458494738648006667/unknown.png) |
+|1983| Beatrice#7931BOT| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/449734023770800129/asdasdad.png) |
+|1984| gowness#0001| 2018-06-19| ![](https://i.imgur.com/jiLIMSL.png) |
+|1985| Cr7#5621| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/458671752843624448/Screenshot_35.png) |
+|1986| El  Zamuro  del Cacao#7469| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/458676757369847808/pizap.com15294291878781.jpg) |
+|1987| mcd3#6341| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/458713644646137857/uh_oh.png) |
+|1988| Snappadoodle#4147| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/458736477862363140/banyaris.jpg) |
+|1989| CristianO𝖋𝖔𝖎𝖘#2261| 2018-06-19| ![](https://cdn.discordapp.com/attachments/416341951416369153/458740454985433100/images_23.jpg) |
+|1990| Dev#8820| 2018-06-20| ![](https://media.giphy.com/media/4W1Eh684GfEg1vF7uN/giphy.gif) |
+|1991| Beatrice#7931BOT| 2018-06-20| ![](https://cdn.discordapp.com/attachments/431938659852353536/453206613801566208/unknown.png) |
+|1992| JuicyJules0202#3308| 2018-06-20| ![](https://cdn.discordapp.com/attachments/416341951416369153/458928889394102272/9844EEE6-D9F5-43FA-AE74-A69050F99ABA.jpeg) |
+|1993| Nano the best#9067| 2018-06-20| ![](https://cdn.discordapp.com/attachments/416341951416369153/458942515358334976/xG4BvGCE8zt0gsmWbAJ4gt16SjmKRkPuXJKipY3gnQ8.jpg) |
+|1994| Nano the best#9067| 2018-06-20| ![](https://cdn.discordapp.com/attachments/416341951416369153/458947819131109377/mars-3-15-18.jpg) |
+|1995| Nano the best#9067| 2018-06-20| ![](https://cdn.discordapp.com/attachments/416341951416369153/458980632589107201/9tnsrgAe1t-70vGNC5IhMKPBJP5LXzqh6XqRxPJVaUI.jpg) |
+|1996| Algiorno Oficial!#8968| 2018-06-20| ![](https://cdn.discordapp.com/attachments/416341951416369153/459084426438115348/35687039_856278721240771_7803425831270744064_n.png) |
+|1997| Raphy👑Vzla-👨👧👧 VZ^BV ♏#3594| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459427491250044948/fishmarried2.png) |
+|1998| Astronauta#9644| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459465316301406218/banano-x-bbk.gif) |
+|1999| Bear_Joset Team Osito 🐻#7442| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459508021421277184/1529625401123.jpg) |
+|2000| Gollo Tattoo 56#5364| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459529443841671192/c965e5235963baa62103a970684d6064.jpg) |
+|2001| stang#0001| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459534014668341259/9k.png) |
+|2002| Gollo Tattoo 56#5364| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459538725215535106/480ff394804db271ab3cca039b1ef9af.jpg) |
+|2003| CoinOperated1245#9875| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459550918040616961/632b2b0bd87b3713084ba30902453e8d.5.jpg) |
+|2004| CoinOperated1245#9875| 2018-06-21| ![](https://cdn.discordapp.com/attachments/416341951416369153/459551633286758401/Professor.jpg) |
+|2005| ChocolateFudCake ™ 🇬🇧#1337| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459576437846966273/image.png) |
+|2006| Bear_Joset Team Osito 🐻#7442| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459704782911701002/dgpaalexkaup7xf.jpg_1138691733.jpg) |
+|2007| renesq#4080| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459755749363417108/unknown.png) |
+|2008| not_idol#3950| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459782376747433984/fine.png) |
+|2009| renesq#4080| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459790578402590724/unknown.png) |
+|2010| Kris Wu#2775| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459809673579593749/35861448_2176117672619854_8754117443535765504_n.jpg) |
+|2011| CoinOperated1245#9875| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459893218453225472/TRUMP_RIGGED.jpg) |
+|2012| CoinOperated1245#9875| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459900610255519765/Trump_v_Banano.jpg) |
+|2013| Team Junglo Arisbelyz#7758| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/459929901194280960/unknown.png) |
+|2014| manpan#4059| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/459984144177299476/purplebrain.png) |
+|2015| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460095968734609418/BANANO_ONE_PUNCH.jpg) |
+|2016| thompsano#8149| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460098708370096128/cant_rain.jpg) |
+|2017| 1monkey#6929| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460108747197644811/Screen_Shot_2018-06-23_at_17.44.32.png) |
+|2018| azuL#1082| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460108868349853697/JPEG_20180623_1743012.jpg) |
+|2019| El  Zamuro  del Cacao#7469| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460116423084343297/11.jpg) |
+|2020| Flightless_Pig#3603| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460122759255818270/image.jpg) |
+|2021| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460122866344656896/20180622_150239.jpg) |
+|2022| Flightless_Pig#3603| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460123008690946049/image.jpg) |
+|2023| Flightless_Pig#3603| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460123308567035907/image.jpg) |
+|2024| Flightless_Pig#3603| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460123454394597406/image.png) |
+|2025| Nano the best#9067| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460126642787057670/8717232.jpg) |
+|2026| ChrisTurd🇬🇧#6587| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460128516449632256/image.jpg) |
+|2027| leberschnitzel#1337| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460138861637402624/2crdzg.jpg) |
+|2028| SimonSito#6329| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460139168937541632/35884082_1756865907731597_7642591297584234496_o.jpg) |
+|2029| Nano the best#9067| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460144588691341313/496899700.jpg) |
+|2030| Bananon#9695| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460154102626910218/bananon.gif) |
+|2031| Eloi#3043| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460158366765940736/bananacoin.jpg) |
+|2032| Jesus Brito del Kongo#0121| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460176221502963722/unknown.png) |
+|2033| Jesus Brito del Kongo#0121| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460178165864726528/unknown.png) |
+|2034| Jesus Brito del Kongo#0121| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460182134548856839/homero.png) |
+|2035| GreatDragonian#2741| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460194391412441088/nano_meeting_board.png) |
+|2036| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460201890454568980/BANANO_RUNNER.jpg) |
+|2037| BananoCup#8543| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/456201994705698827/i-am-coming-instantly-let-me-be-your-banano.png) |
+|2038| moonrocket#4312| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460203572752023564/banano1.gif) |
+|2039| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460203653081333760/Professor.jpg) |
+|2040| Mojo#8572| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460228128485277697/ban.png) |
+|2041| BeardlessDuck#4387| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460232277759229965/whenyouwinagiveaway.gif) |
+|2042| rah🦍🇨🇦#0704| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460233775620685824/image.gif) |
+|2043| ph0netap#4697| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460235858256068610/MEME.jpg) |
+|2044| Jesus Brito del Kongo#0121| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460241090868412446/primero_lo_primero.jpg) |
+|2045| Mr.SantosS#8194| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460250649469124627/unknown.png) |
+|2046| jesus ricardo#9234| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460250961898635264/Cuando-a-tus-memes-le-responden-con-memes.png) |
+|2047| Mr.SantosS#8194| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460251933169680395/unknown.png) |
+|2048| jesus ricardo#9234| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460252981691154432/solo-son-cosas-de-mujeres-31.png) |
+|2049| 👑Slaughter_Team Suicide👻#2555| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460258902165028864/images.jpg) |
+|2050| Mojo#8572| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460259123175358465/ban2.2.png) |
+|2051| Team Junglo Arisbelyz#7758| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460259678941741066/unknown.png) |
+|2052| rah🦍🇨🇦#0704| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460263257270255617/image.jpg) |
+|2053| Team Junglo Arisbelyz#7758| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460264091177582593/unknown.png) |
+|2054| 👑Slaughter_Team Suicide👻#2555| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460264210874499083/Adivinanzas-graciosas.jpg) |
+|2055| cocacola#8913| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460267243045912577/20180624_091657.png) |
+|2056| 👑Slaughter_Team Suicide👻#2555| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460271166586880010/cardos-2.jpg) |
+|2057| jesus ricardo#9234| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460272911224406016/19153230.png) |
+|2058| jesus ricardo#9234| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460273180171567114/platano-4.png) |
+|2059| Rhod#4213| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460275507334873101/bananarambo500.png) |
+|2060| Karla☯#6306| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460279503860531201/unknown.png) |
+|2061| BeardlessDuck#4387| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460282816241074176/cantdumpwithoutanexchange.gif) |
+|2062| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460283323613446144/Trump_v_Banano.jpg) |
+|2063| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460283362523873301/BANANO_ONE_PUNCH.jpg) |
+|2064| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460283397432934420/CHIQUITA_BANANO.jpg) |
+|2065| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460283456103120897/BANANO_RUNNER.jpg) |
+|2066| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460283629088669696/BANANO_FATE.png) |
+|2067| CoinOperated1245#9875| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460284648447279115/Banano_airdrop.png) |
+|2068| 👑Slaughter_Team Suicide👻#2555| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460286567177650186/f20.png) |
+|2069| Maria30#4742| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460287149238124545/35061194_199692667524065_5026499169670397952_n.jpg) |
+|2070| 👑Slaughter_Team Suicide👻#2555| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460289188470718484/Captura.PNG) |
+|2071| El  Zamuro  del Cacao#7469| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/460290792368373761/depositphotos_104722172-stock-illustration-love-banana-to-the-moon.jpg) |
+|2072| Mr.SantosS#8194| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460293273827934209/lol_1.jpg) |
+|2073| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2074| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2075| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2076| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2077| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2078| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2079| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2080| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|1840| Kabeez#1821| 2018-06-08| ![](https://cdn.discordapp.com/attachments/416341951416369153/454660247081189376/image.jpg) |
+|1868| CoinOperated1245#9875| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455123504333979650/Bernie_Banano.jpg) |
+|1869| CoinOperated1245#9875| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455135038548213770/CFC_Bathroom.png) |
+|1870| CaptainClaw⚔#7542| 2018-06-09| ![](https://cdn.discordapp.com/attachments/416341951416369153/455152451146874891/SaltBae.jpg) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
