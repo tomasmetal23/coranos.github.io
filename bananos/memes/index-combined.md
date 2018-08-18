@@ -2467,17 +2467,45 @@
 |2069| Maria30#4742| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460287149238124545/35061194_199692667524065_5026499169670397952_n.jpg) |
 |2070| 👑Slaughter_Team Suicide👻#2555| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460289188470718484/Captura.PNG) |
 |2071| El  Zamuro  del Cacao#7469| 2018-06-22| ![](https://cdn.discordapp.com/attachments/416341951416369153/460290792368373761/depositphotos_104722172-stock-illustration-love-banana-to-the-moon.jpg) |
-|2072| Mr.SantosS#8194| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/460293273827934209/lol_1.jpg) |
-|2073| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2074| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2075| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2076| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2077| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2078| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2079| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-|2080| mcd3#6341| 2018-06-23| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
-
-
+|2072| Mr.SantosS#8194| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460293273827934209/lol_1.jpg) |
+|2073| BeardlessDuck#4387| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460293583124168704/usvthem1.gif) |
+|2074| liam05#5013| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460307531445698599/grandma.jpg) |
+|2075| El  Zamuro  del Cacao#7469| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460318940862742528/2526587_640px.jpg) |
+|2076| CristianO𝖋𝖔𝖎𝖘#2261| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460319421106487316/Casino.jpg) |
+|2077| CristianO𝖋𝖔𝖎𝖘#2261| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460319546679754762/la_jungla_vs_casino.jpg) |
+|2078| CristianO𝖋𝖔𝖎𝖘#22611| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460319811533275166/BANANO_vs_NANERO.jpg) |
+|2079| CristianO𝖋𝖔𝖎𝖘#2261| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460320383414042625/50ea44d951388.jpeg) |
+|2080| BeardlessDuck#4387| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460322883856629775/onebananostillequalsonebanano.gif) |
+|2081| liam05#5013| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460325279923961868/Imagenes-de-memes-graciosas-del-chavo.jpg) |
+|2082| liam05#5013| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460327357081976832/x54de5xjj1blmcxhh0p0isjje4ijxh3cy4gjhej3mr3mz8mb2padnada9umz984u.jpg.pagespeed.ic.imagenes-memes-fot.jpg) |
+|2083| rah🦍🇨🇦#0704| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460339887300935691/image.gif) |
+|2084| - M u z ! u ツ#7735| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460340604216541184/23844741_1338161452958883_1842164373528432369_n.jpg) |
+|2085| M u z ! u ツ#7735| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460343774204133387/preview.jpg) |
+|2086| Lee#2040| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460368790253994014/la_jungla_vs_casino.jpg) |
+|2087| ipod nano#6003| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460379778310995988/b9b7ae8.png) |
+|2088| Nano the best#9067| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460382859870470145/qP1rKAi559-XIVMPI6eWkDfAUhf4O_8btqM4QFUNvH8.jpg) |
+|2089|Maxiz#2598| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460386648115642369/image.jpg) |
+|2090| Sivulla#0001| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460399108730126336/unknown.png) |
+|2091| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460407644830695436/medium_banana3crop.png) |
+|2092| Nano the best#9067| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460409832374140928/carpaint-w855h425.png) |
+|2093| azuL#1082| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460411851004706817/image1.png) |
+|2094| azuL#1082| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460411876027662336/image_3.png) |
+|2095| ChrisTurd🇬🇧#6587| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460411891718553610/image.jpg) |
+|2096| azuL#1082| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460411907631742976/image2.png) |
+|2097| Nano the best#9067| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460413697794506753/i-want-to-believe-banana-doge-4654396.png) |
+|2098| Nano the best#9067| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/458165500216737813/is_this_loss.png) |
+|2099| PieceOfMind#6723| 2018-06-24| ![](https://i.imgur.com/hSOseKah.jpg) |
+|2100| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2101| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2102| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2103| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2104| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2105| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2106| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2107| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2108| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2109| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
+|2110| jesus ricardo#9234| 2018-06-24| ![](https://cdn.discordapp.com/attachments/416341951416369153/460441507967533077/latest.png) |
 
 
 
