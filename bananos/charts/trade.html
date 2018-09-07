@@ -77,7 +77,7 @@ canvas {
                 labelString : 'transactions'
               }
             }, {
-              stacked : true,
+              stacked : false,
               id : 'ratio',
               position : 'right',
               scaleLabel : {
@@ -102,6 +102,11 @@ canvas {
         nanosDs.label = 'nano';
         bananosDs.label = 'banano';
         ratioDs.label = 'ratio';
+
+        txDs.hidden = true;
+        nanosDs.hidden = true;
+        bananosDs.hidden = true;
+        ratioDs.hidden = false;
 
         txDs.borderColor = '#000000';
         nanosDs.borderColor = '#7777AA';
@@ -129,7 +134,7 @@ canvas {
         let lastIx = 0;
 
         response.data = response.data.reverse();
-        
+
         for (let ix = 0; ix < response.data.length; ix++) {
           const elt = response.data[ix];
           const date = elt.date.substring(0, 10);
@@ -146,7 +151,7 @@ canvas {
 
           // console.log('date ix', date, dataIx);
 
-          if(data.labels[dataIx] == undefined) {
+          if (data.labels[dataIx] == undefined) {
             // console.log('new label', dataIx, date);
             data.labels[dataIx] = date;
           }
@@ -168,13 +173,14 @@ canvas {
           bananosDs.data[dataIx] += elt.banano;
         }
 
-        // console.log(data);
-        
         for (let ix = 0; ix < data.labels.length; ix++) {
           nanosDs.data[ix] /= 1000000;
           ratioDs.data[ix] = bananosDs.data[ix] / nanosDs.data[ix];
         }
 
+        addDefaultBollingerBands(priceChartConfig.data, 'ratio');
+
+        // console.log(priceChartConfig.data);
 
         var ctx = document.getElementById('price-canvas').getContext('2d');
         window.myLine = new Chart(ctx, priceChartConfig);
