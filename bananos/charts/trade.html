@@ -171,7 +171,8 @@ canvas {
         // console.log(data);
         
         for (let ix = 0; ix < data.labels.length; ix++) {
-          ratioDs.data[ix] = bananosDs.data[ix] / (nanosDs.data[ix] / 1000000);
+          nanosDs.data[ix] /= 1000000;
+          ratioDs.data[ix] = bananosDs.data[ix] / nanosDs.data[ix];
         }
 
 
