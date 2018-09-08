@@ -1981,7 +1981,6 @@
 |1597| Nano the best#9067| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450250376801681409/carlos-france1080_0.jpg) |
 |1598| cryptonew#7518| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277247518113805/criip.png) |
 |1599| cryptonew#7518| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277395799212032/unknown.png) |
-|1600| cryptonew#7518| 2018-05-27| ![](https://discordapp.com/channels/415935345075421194/416341951416369153) |
 |1601| Astronauta#9644| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450292430219116565/Sem-titulo-1.gif) |
 |1602| Nano the best#9067| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450309749993504768/25-Nasca_Lines_1.jpg) |
 |1603| conga#9337| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450317763349839907/203212039-soccer-football-champions-league-final-real-madrid-v-liverpool-nsc-olympic-stadium-k-1833.jpg) |
@@ -2010,7 +2009,6 @@
 |1626| ⚡Rampage Makuin⚡#7133| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451130188730728449/Good_Grades_and_Success_29052018163841.jpg) |
 |1627| mcd3#6341| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451139673226477576/nesbit.png) |
 |1628| CoinOperated1245#9875| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451190626344763413/ap2NqbHF9xW6auE8WuLQ28rJWbMWTr3kGHUzoQvjjTE.jpg) |
-|1629| Trigger_Haven#5767| 2018-05-29| ![](https://discordapp.com/channels/415935345075421194/416341951416369153) |
 |1630| CoinOperated1245#9875| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451191950947778570/Rigged_pulp.jpgg) |
 |1631| mcd3#6341| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451193064695005196/RIGGED.png) |
 |1632| Nano the best#9067| 2018-05-30| ![](https://cdn.discordapp.com/attachments/416341951416369153/451342055772389402/design_11.png) |
@@ -2275,7 +2273,6 @@
 |1891| El  Zamuro  del Cacao#7469| 2018-06-11| ![](https://cdn.discordapp.com/attachments/416341951416369153/455749281228521483/9925387-ilustracion-del-banano-geneticamente-enfurecido1.jpg) |
 |1892| 🔥adn_vzla🔥#2320| 2018-06-11| ![](https://cdn.discordapp.com/attachments/416341951416369153/455826021334384650/PhotoGridLite_1528747460549.jpg) |
 |1893| Snappadoodle#4147| 2018-06-11| ![](https://cdn.discordapp.com/attachments/416341951416369153/455834768722886657/poopmybirthday.jpg) |
-|1894| Trigger_Haven#5767| 2018-06-11| ![](https://discordapp.com/channels/415935345075421194/416341951416369153) |
 |1895| Beatrice#7931BOT| 2018-06-11| ![](https://cdn.discordapp.com/attachments/416341951416369153/449723856249159701/5RfgX-y7QbZG4pfRIctCFY-6VMtb2_dP6vCVA1A6lxQ.png) |
 |1896| Beatrice#7931BOT| 2018-06-11| ![](https://media.giphy.com/media/dJ4TOGSTLgCLcxETe4/giphy.gif) |
 |1897| Beatrice#7931BOT| 2018-06-11| ![](https://cdn.discordapp.com/attachments/431388013256245258/451915830020669440/THE_LAST.jpg) |
@@ -2331,7 +2328,6 @@
 |1947| El  Zamuro  del Cacao#7469| 2018-06-14| ![](https://cdn.discordapp.com/attachments/416341951416369153/457003996746481664/pizap.com15290301598251.jpg) |
 |1948| BeardlessDuck#4387| 2018-06-15| ![](https://cdn.discordapp.com/attachments/416341951416369153/457061620112162816/unknown.png) |
 |1949| COMDEX#9381| 2018-06-14| ![](hhttps://cdn.discordapp.com/attachments/416341951416369153/457230026299932692/IMG_20180615_085958.jpg) |
-|1950| Cosmic Brownie#1056| 2018-06-15| ![](https://discordapp.com/channels/415935345075421194/416341951416369153) |
 |1951| Nano the best#9067| 2018-06-15| ![](https://cdn.discordapp.com/attachments/416341951416369153/457277980960620564/tumblr_ntwm4gAW1O1ut2d58o1_400.gif) |
 |1952| Beatrice#7931BOT| 2018-06-16| ![](https://cdn.discordapp.com/attachments/431938659852353536/449796313454870529/unknown.png) |
 |1953| leemursk8#7771| 2018-06-16| ![](https://cdn.discordapp.com/attachments/416341951416369153/457398343149027338/2cbh4k.jpg) |
