@@ -1883,7 +1883,7 @@
 |1496| Beatrice#7931BOT| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/448284160461897728/bot.png) |
 |1497| BeardlessDuck#4387| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/449723621330649098/EwFyAmNdJ5yGyqnrBjf0Pgtz3q6iQHXtEFHuGwNrLDY.png) |
 |1498| bbedward#9246| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/449723340240715796/20170502_144105.jpg) |
-|1499| Beatrice#7931BOT| 2018-05-25| ![](https://cdn.dieardlessDuck#4387scordapp.com/attachments/416341951416369153/449723340240715796/20170502_144105.jpg) |
+|1499| Beatrice#7931BOT| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/449723340240715796/20170502_144105.jpg) |
 |1500| BeardlessDuck#4387| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/449723856249159701/5RfgX-y7QbZG4pfRIctCFY-6VMtb2_dP6vCVA1A6lxQ.png) |
 |1501| bbedward#9246| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/449721332335378443/EwFyAmNdJ5yGyqnrBjf0Pgtz3q6iQHXtEFHuGwNrLDY.png) |
 |1502| bbedward#9246| 2018-05-25| ![](https://cdn.discordapp.com/attachments/416341951416369153/449723856249159701/5RfgX-y7QbZG4pfRIctCFY-6VMtb2_dP6vCVA1A6lxQ.png) |
