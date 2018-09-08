@@ -2041,7 +2041,6 @@
 |1659| Beatrice#7931BOT| 2018-05-31| ![](https://media.discordapp.net/attachments/416341951416369153/449731097064898560/maestroyoda.png) |
 |1660| joinity#6524| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452028112243392512/image.jpg) |
 |1661| Nano the best#9067| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452096398402387978/source.gif) |
-|1662| Tony#1124| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452139514979287050/4_5854843055051374802.mp4) |
 |1663| vikhyath#8139| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452141460943273984/ocgtopus.png) |
 |1664| Beatrice#7931BOT| 2018-06-01| ![](https://media.discordapp.net/attachments/416341951416369153/449731097064898560/maestroyoda.png) |
 |1665| Mojo#8572| 2018-065-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452152411407253514/lebanjames.png) |
@@ -2057,7 +2056,6 @@
 |1675| Lucier Baal#1548| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452268746153656340/unknown.png) |
 |1676| BeardlessDuck#4387| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452272533492727808/moonwalk4.gif) |
 |1677| CoinOperated1245#9875| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452304255936888835/Fake_news.jpg) |
-|1678| CoinOperated1245#9875| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452317147549663232/fly_Medium.mp4) |
 |1679| CoinOperated1245#9875| 2018-06-01| ![](https://cdn.discordapp.com/attachments/416341951416369153/452319543604543498/airdrop_wen_raw.png) |
 |1680| CoinOperated1245#9875| 2018-06-02| ![](https://cdn.discordapp.com/attachments/416341951416369153/452330562544336916/BANANO_FATE.png) |
 |1681| Beatrice#7931BOT| 2018-06-02| ![](https://cdn.discordapp.com/attachments/416341951416369153/449721332335378443/EwFyAmNdJ5yGyqnrBjf0Pgtz3q6iQHXtEFHuGwNrLDY.png) |
@@ -2302,7 +2300,6 @@
 |1921| Computer_Genius#9403| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456411661809614849/Mematic_meme_20180613_065216.png) |
 |1922| Nano the best#9067| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456414276740186113/Night-Banner-1_new.jpg) |
 |1923| Computer_Genius#9403| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456416801895612418/main-qimg-2d2f73325b39d722aa8c257df3f7331d.jpeg) |
-|1924| Andreiniana.👽.Junglo#3438| 2018-06-13| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwa7k6R48HlJjfNfVm1HmJo6XxzALuscTFXfU-21cOe2bvA2yoQ) |
 |1925| El  Zamuro  del Cacao#7469| 2018-06-013| ![](https://cdn.discordapp.com/attachments/416341951416369153/456488295841529856/g5rEQRP5FX-4.png) | 
 |1926| Nano the best#9067| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456491105341407235/overwatch-recall-animated-short_1200x500.jpg) |
 |1927| Team Junglo Arisbelyz#7758T| 2018-06-13| ![](https://cdn.discordapp.com/attachments/416341951416369153/456494505005154304/unknown.png) |
@@ -2846,7 +2843,6 @@
 | 2454 | Karla☯#6306   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468870421635399731/bananojumanji.jpg) |
 | 2455 | Astronauta Phi hành gia#9644   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468822437740675092/meme1.png) |
 | 2456 | Astronauta Phi hành gia#9644   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468821728873938954/car.gif) |
-| 2457 | Avai#2740   | 2018-07-17 | ![](https://giphy.com/gifs/banana-hula-hoop-crazy-xUPGcxtF0XweuykLVS) |
 | 2458 | Madasiaka#4876   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468800712676212736/20180717_080407.jpg) |
 | 2459 | !Jesus Brito Del Kongo#0121   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468798189948895255/Lol.png) |
 | 2460 | Astronauta Phi hành gia#9644   | 2018-07-17 | ![](https://cdn.discordapp.com/attachments/416341951416369153/468771065850757140/banano-x-bbk.gif) |
@@ -4766,7 +4762,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/450164422779076618/ban
 https://cdn.discordapp.com/attachments/416341951416369153/450182597323128832/allanstale.png
 https://cdn.discordapp.com/attachments/416341951416369153/450182867956269060/alanstale2.png
 https://cdn.discordapp.com/attachments/416341951416369153/450250376801681409/carlos-france1080_0.jpg
-https://cdn.discordapp.com/attachments/416341951416369153/450277247518113805/criip.png
 https://cdn.discordapp.com/attachments/416341951416369153/450277395799212032/unknown.png
 https://cdn.discordapp.com/attachments/416341951416369153/450279449766789130/image.png
 https://cdn.discordapp.com/attachments/416341951416369153/450292430219116565/Sem-titulo-1.gif
