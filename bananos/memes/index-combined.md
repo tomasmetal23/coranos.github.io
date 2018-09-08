@@ -1979,7 +1979,6 @@
 |1595| BeardlessDuck#4387| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450182597323128832/allanstale.png) |
 |1596| BeardlessDuck#4387| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450182867956269060/alanstale2.png) |
 |1597| Nano the best#9067| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450250376801681409/carlos-france1080_0.jpg) |
-|1598| cryptonew#7518| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277247518113805/criip.png) |
 |1599| cryptonew#7518| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277395799212032/unknown.png) |
 |1601| Astronauta#9644| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450292430219116565/Sem-titulo-1.gif) |
 |1602| Nano the best#9067| 2018-05-27| ![](https://cdn.discordapp.com/attachments/416341951416369153/450309749993504768/25-Nasca_Lines_1.jpg) |
