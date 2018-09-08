@@ -2002,7 +2002,7 @@
 |1620| Coranos#4281| 2018-05-28| ![](https://cdn.discordapp.com/attachments/416341951416369153/450820023494377482/output.gif) |
 |1621| Lucier Baal#1548| 2018-05-28| ![](https://cdn.discordapp.com/attachments/416341951416369153/450822412045516800/unknown.pngg) |
 |1622| cryptonew#7518| 2018-05-28| ![](https://cdn.discordapp.com/attachments/416341951416369153/450860722465931274/unknown.png) |
-|1623| Astronauta#9644| 2018-05-28| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277247518113805/criip.png) ||1623| Astronauta#9644| 2018-05-28| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277247518113805/criip.png) |
+|1623| Astronauta#9644| 2018-05-28| ![](https://cdn.discordapp.com/attachments/416341951416369153/450277247518113805/criip.png) |
 |1624| BeardlessDuck#4387| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/450913080084267018/ezgif-5-8146691f5f.gif) |
 |1625| joinity#6524| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451112960442499083/bananogamlbe.jpg) |
 |1626| ⚡Rampage Makuin⚡#7133| 2018-05-29| ![](https://cdn.discordapp.com/attachments/416341951416369153/451130188730728449/Good_Grades_and_Success_29052018163841.jpg) |
