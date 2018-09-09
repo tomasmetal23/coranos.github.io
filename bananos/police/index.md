@@ -6,7 +6,9 @@
 
 2. Asking for a loan is a first degree misdemeanor.
 
-3. Selling nudes is a first degree misdemeanor.
+3. Selling nudes when over 21 years of age is a first degree misdemeanor.
+
+4. Selling nudes when under 21 years of age is a first degree felony.
 
 4. Speaking more than a few lines of any language in a language-specific channel (other than the specific language for the channel) is a second degree misdemeanor.
 
