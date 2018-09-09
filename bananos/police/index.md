@@ -14,6 +14,9 @@
 
 6. Spamming in a citizen-only channel is a first degree felony.
 
+7. Harassing anyone in either direct messages or in a channel, is a first degree felony.  
+Harrassing is either threatening them, intimidating them, or making unwanted sexual advances.  
+
 ## Penalties
 
 1. first degree misdemeanor.
