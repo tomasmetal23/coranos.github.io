@@ -30,4 +30,4 @@ Second offence is a 24 hour muzzle.
 
 3. first degree felony.
 First offence is a 1 hour muzzle.
-Second offence is deportation.
+Second offence is jailing and deportation.
