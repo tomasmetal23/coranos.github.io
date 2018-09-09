@@ -12,6 +12,8 @@
 
 5. Speaking more than a few lines of a language other than english in a english channel is a second degree misdemeanor.
 
+6. Spamming in a citizen-only channel is a first degree felony.
+
 ## Penalties
 
 1. first degree misdemeanor.
@@ -23,3 +25,6 @@ Third offence is indefinite muzzle.
 First offence is a 1 hour muzzle.
 Second offence is a 24 hour muzzle.
 
+3. first degree felony.
+First offence is a 1 hour muzzle.
+Second offence is deportation.
