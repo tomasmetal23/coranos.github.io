@@ -14,10 +14,12 @@
 
 5. Speaking more than a few lines of a language other than english in a english channel is a second degree misdemeanor.
 
-6. Spamming in a citizen-only channel is a first degree felony.
+6. Spamming in a citizen-only channel is a second degree felony.
 
 7. Harassing anyone in either direct messages or in a channel, is a first degree felony.  
 Harrassing is either threatening them, intimidating them, or making unwanted sexual advances.  
+
+8. Spamming in a non citizen-only channel is a first degree felony.
 
 ## Penalties
 
@@ -32,4 +34,8 @@ Second offence is a 24 hour muzzle.
 
 3. first degree felony.
 First offence is a 1 week jail.
+Second offence is jailing and deportation.
+
+4. second degree felony.
+First offence is a 1 minute muzzle.
 Second offence is jailing and deportation.
