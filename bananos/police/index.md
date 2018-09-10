@@ -22,14 +22,14 @@ Harrassing is either threatening them, intimidating them, or making unwanted sex
 ## Penalties
 
 1. first degree misdemeanor.
-First offence is a 24 hour muzzle.
+First offence is a 24 hour jail.
 Second offence is a 7 day muzzle.
 Third offence is indefinite muzzle.
 
 2. second degree misdemeanor.
-First offence is a 1 hour muzzle.
+First offence is a 1 hour jail.
 Second offence is a 24 hour muzzle.
 
 3. first degree felony.
-First offence is a 1 week muzzle.
+First offence is a 1 week jail.
 Second offence is jailing and deportation.
