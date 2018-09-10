@@ -1,4 +1,4 @@
-#Banano Republic Police Guidelines
+# Banano Republic Police Guidelines
 
 ## Code of Law
 
