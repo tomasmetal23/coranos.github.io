@@ -20,6 +20,8 @@ Update the progress page when you are done with a lesson.
 
 [Lesson Six, loading data from JSON](06-lesson.md)
 
+[Lesson Seven, making charts from JSON data](07-lesson.md)
+
 ## Lesson Notes
 
 To compare two files install the compare-files module in atom.
