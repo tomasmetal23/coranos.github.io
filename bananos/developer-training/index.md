@@ -8,19 +8,19 @@ Update the progress page when you are done with a lesson.
 
 ## Lessons
 
-[Lesson One, Github and Atom](01-lesson.md)
+### [Lesson One, Github and Atom](01-lesson.md)
 
-[Lesson Two, gh-pages](02-lesson.md)
+### [Lesson Two, gh-pages](02-lesson.md)
 
-[Lesson Three, simple index.html](03-lesson.md)
+### [Lesson Three, simple index.html](03-lesson.md)
 
-[Lesson Four, add HTML to your index.html, use CSS](04-lesson.md)
+### [Lesson Four, add HTML to your index.html, use CSS](04-lesson.md)
 
-[Lesson Five, tables in index.html, borders in index.css](05-lesson.md)
+### [Lesson Five, tables in index.html, borders in index.css](05-lesson.md)
 
-[Lesson Six, loading data from JSON](06-lesson.md)
+### [Lesson Six, loading data from JSON](06-lesson.md)
 
-[Lesson Seven, making charts from JSON data](07-lesson.md)
+### [Lesson Seven, making charts from JSON data](07-lesson.md)
 
 ## Lesson Notes
 
