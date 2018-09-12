@@ -8,26 +8,26 @@
 
 
 ### Things that will get you warned, second offence deported and jailed, third offence indefinite muzzle.  
-### Cosas que lo alertarán, segunda ofensa deportada y encarcelada, tercera ofensa indefinida  
-### Coisas que irão alertá-lo, segunda infração deportada e presa, terceira infração indefinida  
+### Cosas que lo alertarán, segunda ofensa deportada y encarcelada, tercera ofensa indefinida.  
+### Coisas que irão alertá-lo, segunda infração deportada e presa, terceira infração indefinida.  
 
 
 
 1. Begging.  
-   Mendicidad  
-   Implorando  
+   Mendicidad.  
+   Implorando.  
 
 2. Asking for a loan.  
-   Pedir un préstamo  
-   Pedir um empréstimo  
+   Pedir un préstamo.  
+   Pedir um empréstimo.  
 
 3. Selling nudes.  
-   Vender desnudos  
-   Vender nus  
+   Vender desnudos.  
+   Vender nus.  
 
 4. Speaking more than a few lines of any language in a language-specific channel (other than the specific language for the channel.  
-   Hablando más que unas pocas líneas de cualquier idioma en un canal específico del idioma (que no sea el idioma específico del canal) 
-   Falando mais do que algumas linhas de qualquer idioma em um canal de idioma específico (além do idioma específico do canal)  
+   Hablando más que unas pocas líneas de cualquier idioma en un canal específico del idioma (que no sea el idioma específico del canal). 
+   Falando mais do que algumas linhas de qualquer idioma em um canal de idioma específico (além do idioma específico do canal).  
 
 5. Speaking more than a few lines of a language other than english in a english channel is a second degree misdemeanor.  
    Hablar más de unas pocas líneas de un idioma que no sea inglés en un canal de inglés es un delito menor de segundo grado  
@@ -37,16 +37,16 @@
 ### Cosas que te darán 30 minutos de hocico, segunda ofensa indefinida  
 ### Coisas que lhe darão 30 minutos de focinho, segunda ofensa indefinida  
 
-1. Harassing anyone in either direct messages or in a channel, is a first degree felony. 
+1. Harassing anyone in either direct messages or in a channel.  
    Harassing is either threatening them, intimidating them, or making unwanted sexual advances.  
-   Acosar a alguien en mensajes directos o en un canal es un delito grave de primer grado.
-   Acosarlos los está amenazando, intimidándolos o haciendo avances sexuales no deseados  
-   Assediar alguém em mensagens diretas ou em um canal é um crime de primeiro grau.
-   Assediá-los é ameaçar, intimidar ou fazer avanços sexuais indesejados  
+   Acosar a alguien en mensajes directos o en un canal.  
+   Acosarlos los está amenazando, intimidándolos o haciendo avances sexuales no deseados.  
+   Assediar alguém em mensagens diretas ou em um canal.  
+   Assediá-los é ameaçar, intimidar ou fazer avanços sexuais indesejados.  
 
 2. Insulting the police.  
-   Insultar a la policía  
-   Insultar a polícia  
+   Insultar a la policía.  
+   Insultar a polícia.  
 
 
 ### Things that will get you 1 minute muzzle, second offence indefinite muzzle.  
@@ -54,21 +54,21 @@
 ### Coisas que te darão 1 minuto de silêncio, segunda ofensa indefinida  
 
 1. Spamming text in any channel.  
-   Spamming de texto en cualquier canal  
-   Spam de texto em qualquer canal  
+   Spamming de texto en cualquier canal.  
+   Spam de texto em qualquer canal.  
 
 2. Spamming text in any direct messages.  
-   Spamming de texto en cualquier mensaje directo  
-   Spamming de texto em qualquer mensagem direta  
+   Spamming de texto en cualquier mensaje directo.  
+   Spamming de texto em qualquer mensagem direta.  
 
 ### Things that will get you 1 minute muzzle, second offence 30 minute muzzle, third offence indefinite muzzle.  
-### Cosas que te darán 1 minuto de silencio, segunda ofensa 30 minutos de silencio, tercera ofensa indefinida  
-### Coisas que lhe darão 1 minuto de silêncio, segunda ofensa 30 minutos de silêncio, terceira ofensa indefinida  
+### Cosas que te darán 1 minuto de silencio, segunda ofensa 30 minutos de silencio, tercera ofensa indefinida.  
+### Coisas que lhe darão 1 minuto de silêncio, segunda ofensa 30 minutos de silêncio, terceira ofensa indefinida.  
 
 1. Spamming emoji in any channel.  
-   Spamming emoji en cualquier canal  
-   Emoji de spam em qualquer canal  
+   Spamming emoji en cualquier canal.  
+   Emoji de spam em qualquer canal.  
 
 2. Spamming emoji in any direct messages.  
-   Spamming emoji en cualquier mensaje directo  
-   Emoji de spam em qualquer mensagem direta  
+   Spamming emoji en cualquier mensaje directo.  
+   Emoji de spam em qualquer mensagem direta.  
