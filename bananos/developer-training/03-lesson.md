@@ -27,6 +27,11 @@ cd git;
 cd <username>.github.io;
 ```
 
+(If you used atom to add the file, instead of the website, add the new file to git):
+```
+git add index.html
+```
+
 then commit the changes.
 ```
 git pull;git commit -a -m "updated index.html";git push;
