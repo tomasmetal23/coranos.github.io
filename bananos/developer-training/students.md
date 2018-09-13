@@ -8,10 +8,11 @@
 | 69     | not_idol#3950         | Completed Lesson Four  |[not-idol.github.io]      |
 | 04     | Lee#2040              | Completed Lesson Two   |[acidlee.github.io]       |
 | 05     | Parvu#7388            | Completed Lesson Three |[parvulitum.github.io]    |
-| 06     | Monachita#2427        | Completed Lesson seven  |[lanegrologia1.github.io]   |
-| 07     | Trigger Haven#5767    | Completed Lesson       |   |
+| 06     | Monachita#2427        | Completed Lesson seven |[lanegrologia1.github.io]|
+| 07     | Trigger Haven#5767    | Completed Lesson       |                          |
 | 08     | Scarlet Alejandra#4565| completed lesson one   |
-| 09     | azuLeto#1082          | Completed Lesson One   | https://azuleto.github.io/ |
+| 09     | azuLeto#1082          | Completed Lesson One   |https://azuleto.github.io |
+| 10     | Deathmetall#7371      | Completed Lesson Seven |[tomasmetal23.github.io]  |
 
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
@@ -19,3 +20,4 @@
 [acidlee.github.io]: https://acidlee.github.io/
 [parvulitum.github.io]: https://Parvulitum.github.io/
 [lanegrologia1.github.io]: https://lanegrologia1.github.io/
+[tomasmetal23.github.io]: https://tomasmetal23.github.io/
