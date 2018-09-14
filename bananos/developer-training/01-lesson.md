@@ -27,3 +27,5 @@ cd coranos.github.io;
 ```
 
 ## 1.5 - Using the Github Web Page, add your Discord ID to the Student  list.
+
+Use the "link by reference" format the way the other students are doing it, where the link to your page is at the bottom of the student list, and is referenced by name at the table in the top.
