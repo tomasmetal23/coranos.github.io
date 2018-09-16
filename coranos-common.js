@@ -7,7 +7,11 @@ const show = (id) => {
 }
 
 const html = (id,html) => {
-  document.getElementById(id).innerHTML = html;
+  const elt = document.getElementById(id);
+  if(html !== undefined) {
+    elt.innerHTML = html;
+  }
+  return elt.innerHTML;
 }
 
 const class_attr = (id,cl) => {

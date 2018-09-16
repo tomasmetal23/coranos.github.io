@@ -32,23 +32,19 @@
       </tr>
       <tr>
         <th colspan="2">Server Seed</th>
-        <td colspan="3"><input class="w96pct" type="text" name="server_seed" value="123456"></td>
-      </tr>
-      <tr>
-        <th colspan="2">Server Seed Hash</th>
-        <td colspan="3"><input class="w96pct" type="text" name="server_seed_hash" value=""></td>
+        <td colspan="3"><input id="server_seed" class="w96pct" type="text" name="server_seed" value="123456"></td>
       </tr>
       <tr>
         <th colspan="2">Client Seed</th>
-        <td colspan="3"><input class="w96pct" type="text" name="client_seed" value="ABCDEF"></td>
+        <td colspan="3"><input id="client_seed" class="w96pct" type="text" name="client_seed" value="ABCDEF"></td>
       </tr>
       <tr>
         <th colspan="2">Nonce</th>
-        <td colspan="3"><input class="w96pct" type="text" name="nonce" value="0"></td>
+        <td colspan="3"><input id="nonce" class="w96pct" type="number" name="nonce" value="1"></td>
       </tr>
       <tr>
         <th colspan="2">Number Of Bets</th>
-        <td colspan="3"><input id="number_of_bets" class="w96pct" type="text" name="number_of_bets" value="10"></td>
+        <td colspan="3"><input id="number_of_bets" class="w96pct" type="number" name="number_of_bets" value="10"></td>
       </tr>
       <tr>
         <td colspan="5"><button id="vh" class="button w99pct" onclick="playClick(this)">Play!</button></td>
@@ -60,14 +56,17 @@
       <table class="w100pct">
         <tr>
           <th>Bet Number</th>
+          <th>Hash</th>
           <th>Result</th>
           <th>Target</th>
           <th>Win/Lose</th>
           <th>Profit</th>
+          <th>Total Profit</th>
         </tr>
       </table>
     </div>
   </div>
+  <script src="js-lib/crypto-js.js"></script>
   <script src="coranos-common.js"></script>
   <script src="game.js"></script>
 </body>
