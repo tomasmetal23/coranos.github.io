@@ -69,7 +69,7 @@ const createTable = (id,json) => {
   const banano = document.getElementById(id);
   
   const table = addChildElement(banano,'table');
-  table.className = 'cb';
+  table.className = 'cb w100pct';
   
   const tableHeaderRow = addChildElement(table,'tr');
   tableHeaderRow.className = 'cb';

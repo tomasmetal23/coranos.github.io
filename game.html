@@ -24,14 +24,49 @@
         <th colspan="5">Pick Chance Of Winning!</th>
       </tr>
       <tr>
-        <th><button id="vl" class="button" onclick="buttonClick(this)">Very Low</button></th>
-        <th><button id="l" class="button" onclick="buttonClick(this)">Low</button></th>
-        <th><button id="a" class="button" onclick="buttonClick(this)">Average</button></th>
-        <th><button id="h" class="button" onclick="buttonClick(this)">High</button></th>
-        <th><button id="vh" class="button selected_button" onclick="buttonClick(this)">Very High</button></th>
+        <td><button id="vl" class="button" onclick="chanceSelectionClick(this)">Very Low</button></td>
+        <td><button id="l" class="button" onclick="chanceSelectionClick(this)">Low</button></td>
+        <td><button id="a" class="button" onclick="chanceSelectionClick(this)">Average</button></td>
+        <td><button id="h" class="button" onclick="chanceSelectionClick(this)">High</button></td>
+        <td><button id="vh" class="button selected_button" onclick="chanceSelectionClick(this)">Very High</button></td>
+      </tr>
+      <tr>
+        <th colspan="2">Server Seed</th>
+        <td colspan="3"><input class="w96pct" type="text" name="server_seed" value="123456"></td>
+      </tr>
+      <tr>
+        <th colspan="2">Server Seed Hash</th>
+        <td colspan="3"><input class="w96pct" type="text" name="server_seed_hash" value=""></td>
+      </tr>
+      <tr>
+        <th colspan="2">Client Seed</th>
+        <td colspan="3"><input class="w96pct" type="text" name="client_seed" value="ABCDEF"></td>
+      </tr>
+      <tr>
+        <th colspan="2">Nonce</th>
+        <td colspan="3"><input class="w96pct" type="text" name="nonce" value="0"></td>
+      </tr>
+      <tr>
+        <th colspan="2">Number Of Bets</th>
+        <td colspan="3"><input id="number_of_bets" class="w96pct" type="text" name="number_of_bets" value="10"></td>
+      </tr>
+      <tr>
+        <td colspan="5"><button id="vh" class="button w99pct" onclick="playClick(this)">Play!</button></td>
       </tr>
     </table>
-    <canvas id="game-canvas"></canvas>
+    <p>
+    <h3 class="text_align_center">Record Of Bets</h3>
+    <div id="bets">
+      <table class="w100pct">
+        <tr>
+          <th>Bet Number</th>
+          <th>Result</th>
+          <th>Target</th>
+          <th>Win/Lose</th>
+          <th>Profit</th>
+        </tr>
+      </table>
+    </div>
   </div>
   <script src="coranos-common.js"></script>
   <script src="game.js"></script>

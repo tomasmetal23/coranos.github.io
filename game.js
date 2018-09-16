@@ -13,7 +13,29 @@ const onLoad = () => {
   setOdds();
 };
 
-const buttonClick = (elt) => {
+const playClick = (elt) => {
+  const json = [];
+  
+  const numberOfBets = value('number_of_bets');
+  
+  for(let ix = 0; ix < numberOfBets; ix++) {
+    const jsonElt = {};
+    
+    jsonElt['Bet Number'] = ix+1;
+    jsonElt['Result'] = '?';
+    jsonElt['Target'] = '?';
+    jsonElt['Win/Lose'] = '?';
+    jsonElt['Profit'] = '?';
+    
+    json.push(jsonElt);
+  }
+  
+  const id = elt.getAttribute('id');
+  html('bets','');
+  createTable('bets',json);
+};
+
+const chanceSelectionClick = (elt) => {
   buttonIds.forEach((button) => {
     class_attr(button.id, 'button');
   });
