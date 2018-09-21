@@ -523,7 +523,6 @@
 | 128 | Limeni#4324 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 129 | HetzerGer#4861 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422493270006824963/266kbi.jpg) |
 | 130 | FomoArigato#7018 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422495396183539715/miley.jpg) |
-| 131 | stipeslunchbox#1415 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422511686474268684/banano_speed_dark.gif) |
 | 132 | AJ#1810 | 2018-03-11 | ![](https://i.imgflip.com/266pd1.jpg) |
 | 133 | Shiold#5468 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422518638600519686/images_3.jpeg) |
 | 134 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-11 | ![](https://i.imgflip.com/266n4u.jpg) |
@@ -3389,7 +3388,7 @@ https://cdn.discordapp.com/attachments/416341951416369153/422488658306924556/266
 https://cdn.discordapp.com/attachments/416341951416369153/422492769198669845/21-35-09-04fc347586496ad24144e168159680ca--funny-ha-ha-so-funny.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422493270006824963/266kbi.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422495396183539715/miley.jpg
-https://cdn.discordapp.com/attachments/416341951416369153/422511686474268684/banano_speed_dark.gif
+
 https://i.imgflip.com/266pd1.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422518638600519686/images_3.jpeg
 https://i.imgflip.com/266n4u.jpg
