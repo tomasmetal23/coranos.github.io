@@ -404,7 +404,6 @@
 | 6 | Astronauta Phi hành gia#9644 | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471322010090471424/b3c76ea7c23762bd2af16cbc81c64b8a.png) |
 | 7   | renesq#4080 | 02/23/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/416672295789002753/leaveraialone2567qr.jpg) |
 | 8   | ANANOMEME, Shitpoet#4885 | 02/24/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/416981382728777731/BananoMano2.jpg) 
-|  9 | renesq#4080 | 02/25/2018 |  ![](https://cdn.discordapp.com/attachments/416341951416369153/417325526655434752/banano_speed_dark.gif)
 | 10 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618123458609152/10-Of-The-Best-Apple-Print-Ads-Of-All-Time-752x490.png) |
 | 11 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618162478088194/Banano-Apple-Logo-01.png) |
 | 12 | MorganOrion#3941 | 2018-02-26 | ![](https://cdn.discordapp.com/attachments/416341951416369153/417618198305832960/Banano-Apple-Logo-02.pngg) |
@@ -523,7 +522,6 @@
 | 128 | Limeni#4324 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/421234350030585856/unknown.png) |
 | 129 | HetzerGer#4861 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422493270006824963/266kbi.jpg) |
 | 130 | FomoArigato#7018 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422495396183539715/miley.jpg) |
-| 131 | stipeslunchbox#1415 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422511686474268684/banano_speed_dark.gif) |
 | 132 | AJ#1810 | 2018-03-11 | ![](https://i.imgflip.com/266pd1.jpg) |
 | 133 | Shiold#5468 | 2018-03-11 | ![](https://cdn.discordapp.com/attachments/416341951416369153/422518638600519686/images_3.jpeg) |
 | 134 | ChocolateFudCake ™ 🇬🇧#1337 | 2018-03-11 | ![](https://i.imgflip.com/266n4u.jpg) |
@@ -3269,7 +3267,6 @@ https://cdn.discordapp.com/attachments/416341951416369153/416342309899206657/Scr
 https://cdn.discordapp.com/attachments/416341951416369153/416672295789002753/leaveraialone2567qr.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/416812960003129345/Screen_Shot_2018-02-24_at_04.25.03.png
 https://cdn.discordapp.com/attachments/416341951416369153/416981382728777731/BananoMano2.jpg
-https://cdn.discordapp.com/attachments/416341951416369153/417325526655434752/banano_speed_dark.gif
 https://cdn.discordapp.com/attachments/416341951416369153/417618123458609152/10-Of-The-Best-Apple-Print-Ads-Of-All-Time-752x490.png
 https://cdn.discordapp.com/attachments/416341951416369153/417618162478088194/Banano-Apple-Logo-01.png
 https://cdn.discordapp.com/attachments/416341951416369153/417618198305832960/Banano-Apple-Logo-02.png
@@ -3389,7 +3386,7 @@ https://cdn.discordapp.com/attachments/416341951416369153/422488658306924556/266
 https://cdn.discordapp.com/attachments/416341951416369153/422492769198669845/21-35-09-04fc347586496ad24144e168159680ca--funny-ha-ha-so-funny.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422493270006824963/266kbi.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422495396183539715/miley.jpg
-https://cdn.discordapp.com/attachments/416341951416369153/422511686474268684/banano_speed_dark.gif
+
 https://i.imgflip.com/266pd1.jpg
 https://cdn.discordapp.com/attachments/416341951416369153/422518638600519686/images_3.jpeg
 https://i.imgflip.com/266n4u.jpg
