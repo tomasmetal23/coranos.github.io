@@ -24,6 +24,8 @@ Update the progress page when you are done with a lesson.
 
 ### [Lesson Eight, making games](08-lesson.md)
 
+### [Lesson Nine, making gantt charts](09-lesson.md)
+
 ## Lesson Notes
 
 To compare two files install the compare-files module in atom.
