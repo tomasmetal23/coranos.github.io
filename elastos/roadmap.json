@@ -1,0 +1,62 @@
+[
+	{
+		"startDate": "Sep 21 2018",
+		"endDate": "Sep 22 2018",
+		"taskName": "Create Roadmap",
+		"status": "SUCCEEDED"
+	},
+	{
+		"startDate": "Sep 22 2018",
+		"endDate": "Oct 07 2018",
+		"taskName": "Refine Roadmap",
+		"status": "RUNNING"
+	},
+	{
+		"startDate": "Sept 23 2018",
+		"endDate": "Oct 07 2018",
+		"taskName": "get Elastos.ELA and Elastos.ELA.Client working locally",
+		"status": "RUNNING"
+	},
+	{
+		"startDate": "Oct 08 2018",
+		"endDate": "Oct 22 2018",
+		"taskName": "Build nodejs light wallet that works like Elastos.ELA.Client and signs transactions using javascript",
+		"status": "NOT STARTED"
+	},
+	{
+		"startDate": "Oct 23 2018",
+		"endDate": "Oct 30 2018",
+		"taskName": "Test nodejs Elastos.ELA.Client",
+		"status": "NOT STARTED"
+	},
+	{
+		"startDate": "Oct 31 2018",
+		"endDate": "Nov 14 2018",
+		"taskName": "Release nodejs Elastos.ELA.Client",
+		"status": "NOT STARTED"
+	},
+	{
+		"startDate": "Nov 01 2018",
+		"endDate": "Nov 15 2018",
+		"taskName": "Build ledger nano Elastos APP",
+		"status": "NOT STARTED"
+	},
+	{
+		"startDate": "Nov 16 2018",
+		"endDate": "Nov 30 2018",
+		"taskName": "Test ledger nano Elastos APP with offline transactions",
+		"status": "NOT STARTED"
+	},
+	{
+		"startDate": "Dec 01 2018",
+		"endDate": "Dec 15 2018",
+		"taskName": "Test ledger nano Elastos APP with transactions from neonjs wallet",
+		"status": "NOT STARTED"
+	},
+	{
+		"startDate": "Dec 16 2018",
+		"endDate": "Dec 30 2018",
+		"taskName": "Release ledger nano Elastos APP",
+		"status": "NOT STARTED"
+	}
+]
