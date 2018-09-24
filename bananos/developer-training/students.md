@@ -13,7 +13,7 @@
 | 08     | Scarlet Alejandra#4565| completed lesson one   |
 | 09     | azuLeto#1082          | Completed Lesson One   |[azuleto.github.io]       |
 | 10     | Deathmetall#7371      | Completed Lesson Eight |[tomasmetal23.github.io]  |
-| 11     |not_periquito # 8194   | completed lesson one   | [parakeet1.github.io]    |
+| 11     |*Parzival # 8194   | completed lesson seven   | [parakeet1.github.io]    |
 | 12     | IsBємsh👽C94´#0467     | completed lesson one   |[IsBemsho.github.io]      |
 | 13     | liam05 #5013          | completed lesson one   |[isata23677.github.io]    |
 
