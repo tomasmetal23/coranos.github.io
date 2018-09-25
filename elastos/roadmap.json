@@ -34,7 +34,15 @@
 	{
 		"startDate": "Oct 08 2018",
 		"endDate": "Oct 22 2018",
-		"taskName": "Build nodejs light wallet that works like Elastos.ELA.Client and signs transactions using javascript",
+		"taskName": [
+			"Build nodejs light wallet that works like Elastos.ELA.Client and signs transactions using javascript",
+			{
+				"startDate": "Oct 08 2018",
+				"endDate": "Oct 22 2018",
+				"taskName": "ask UKHb80 for design help",
+				"status": "COMPLETED"
+			}
+		,
 		"status": "NOT STARTED"
 	},
 	{
