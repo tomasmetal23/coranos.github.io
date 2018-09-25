@@ -1,7 +1,7 @@
 const callback = (response) => {
-  createTable('roadmap',response);
+  createTable('roadmap', response);
 }
 
 const onLoad = () => {
-    loadJson('roadmap.json', callback);
+  loadJson('roadmap.json', callback);
 }

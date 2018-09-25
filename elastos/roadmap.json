@@ -14,7 +14,21 @@
 	{
 		"startDate": "Sept 23 2018",
 		"endDate": "Oct 07 2018",
-		"taskName": "get Elastos.ELA and Elastos.ELA.Client working locally",
+		"taskName": [
+			"get Elastos.ELA and Elastos.ELA.Client working locally",
+			{
+				"startDate": "Sep 24 2018",
+				"endDate": "Oct 24 2018",
+				"taskName": "get Elastos.ELA working locally",
+				"status": "RUNNING"
+			},
+			{
+				"startDate": "Sep 24 2018",
+				"endDate": "Oct 24 2018",
+				"taskName": "get Elastos.ELA.Client working locally",
+				"status": "RUNNING"
+			}
+		],
 		"status": "RUNNING"
 	},
 	{
