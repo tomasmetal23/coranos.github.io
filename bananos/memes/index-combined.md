@@ -2894,8 +2894,26 @@
 | 2508 |gorillaalbino 👽 C94#9474| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469546687271141376/2415jx.jpg) |
 | 2509 |HeartlessJoker♠#8153| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469552519971078176/joker_war.png) |
 | 2510 |HeartlessJoker♠#8153| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469560340485767188/4.png) |
-| 2511 |Mojo#8572| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469158371392618497/brain.png) |
-
+| 2511 |unnamed#0288| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469563936740474900/lets_get_ready_to_gamble.jpg) |
+| 2512 |bantano#1919| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469578645237661727/FB_IMG_1512080047382.jpg) |
+| 2513 |bantano#1919| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469581339230994472/go_banano.jpg) |
+| 2514 |theguy#3556| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469584032968212481/86LEPg.gif) |
+| 2515 |theguy#3556| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469586346042982401/jq4nQl.gif) |
+| 2516 |Janky#9300| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469588408151441419/BATNANO.png) |
+| 2517 |bantano#1919| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469589877395161098/showuswhatyougot.jpg) |
+| 2518 |Edvard Munch Astronauta da Silva#9644| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469600441349701632/Sem_Titulo-1.png) |
+| 2519 Edvard Munch Astronauta da Silva#9644| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469602372910317569/TNJ.png) |
+| 2520 |manpan#4059| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469605123061186593/bananoroyale.gif) |
+| 2521 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2522 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2523 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2524 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2525 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2526 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2527 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2528 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2529 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
+| 2530 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
 
 
 
