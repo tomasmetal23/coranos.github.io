@@ -12,18 +12,18 @@
   },
   {
     "startDate": "Sept 23 2018",
-    "endDate": "Oct 07 2018",
+    "endDate": "Sept 25 2018",
     "taskName": [
       "get Elastos.ELA and Elastos.ELA.Client working locally",
       {
         "startDate": "Sep 24 2018",
-        "endDate": "Oct 24 2018",
+        "endDate": "Sep 25 2018",
         "taskName": "get Elastos.ELA working locally",
-        "status": "RUNNING"
+        "status": "COMPLETED"
       },
       {
         "startDate": "Sep 24 2018",
-        "endDate": "Oct 24 2018",
+        "endDate": "Sep 25 2018",
         "taskName": "get Elastos.ELA.Client working locally",
         "status": "COMPLETED"
       }
@@ -31,10 +31,70 @@
     "status": "RUNNING"
   },
   {
-    "startDate": "Oct 08 2018",
+    "startDate": "Sept 25 2018",
     "endDate": "Oct 22 2018",
     "taskName": [
       "Build nodejs light wallet that works like Elastos.ELA.Client and signs transactions using javascript",
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Sept 25 2018",
+        "taskName": "create github repo https://github.com/coranos/elastos-light-wallet",
+        "status": "COMPLETED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "convert private key to public address, P256 curve",
+        "status": "RUNNING"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create a transaction that is byte-identical to ELA transaction.go",
+        "status": "RUNNING"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI that takes private key, and the displays public key, account, utxos, and balance",
+        "status": "NOT STARTED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI that takes private key, and the displays public key, account, utxos, and balance",
+        "status": "NOT STARTED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create ledger app that returns public key and account via USB",
+        "status": "NOT STARTED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI to create transaction (from,to,amount,fee)",
+        "status": "NOT STARTED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI to sign transaction from private key",
+        "status": "NOT STARTED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI to send signed transaction",
+        "status": "NOT STARTED"
+      },
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI to sign transaction using ledger",
+        "status": "NOT STARTED"
+      },
       {
         "startDate": "Oct 08 2018",
         "endDate": "Oct 22 2018",
