@@ -2904,20 +2904,36 @@
 | 2518 |Edvard Munch Astronauta da Silva#9644| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469600441349701632/Sem_Titulo-1.png) |
 | 2519 Edvard Munch Astronauta da Silva#9644| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469602372910317569/TNJ.png) |
 | 2520 |manpan#4059| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469605123061186593/bananoroyale.gif) |
-| 2521 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2522 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2523 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2524 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2525 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2526 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2527 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2528 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2529 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-| 2530 |mario3ds#1702| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469515827876462592/image.jpg) |
-
-
-
-
+| 2521 |Madasiaka#4876| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469627402360848415/20180719_090758.jpg) |
+| 2522 |Madasiaka#4876| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469627431435763712/2ebjrk.jpg) |
+| 2523 |Flightless_Pig#3603| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469639930411483146/image.jpg) |
+| 2524 |Joset_Bear#7442| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469643213108543488/1532022191324.jpg) |
+| 2525 |BeardlessDuck#4387| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469663531206443024/caution.gif) |
+| 2526 |BeardlessDuck#4387| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469664197425233950/yodawg.png) |
+| 2527 |moonrocket#4312| 2018-07-19 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469691640966021120/bandoge.gif) |
+| 2528 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2529 |Edvard Munch Astronauta da Silva#9644| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469860888569184256/BANANOsem.png) |
+| 2530 |zeuseshands#4403| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469883712608403496/20180720_110637.gif) |
+| 2531 |rah🦍🇨🇦#0704| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469908976449093642/Screen_Shot_2018-07-20_at_12.45.48.png) |
+| 2532 |dlvs#0756| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469910820005085194/chart.png) |
+| 2533 |yekta#9841| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469916718937014272/image.png) |
+| 2534 |Deleted User#0000| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469950149389582336/tempsnip.png) |
+| 2535 |BeardlessDuck#4387| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469964751162703883/drakeredblacknahgreenyeah.png) |
+| 2536 |1monkey#6929| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469981027780001792/Screen_Shot_2018-07-20_at_23.35.22.png) |
+| 2537 |El rockero#3331| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469992308620918784/924919a25e0f9bd63a06b3f6733227a6.jpg) |
+| 2538 |HeartlessJoker♠#8153| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470010244349820938/seekerwaso.png) |
+| 2539 |rah🦍🇨🇦#0704| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470042584589271040/BAN.png) |
+| 2540 |jesus#2308| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470058448969531392/unknown.png) |
+| 2541 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2542 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2543 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2544 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2545 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2546 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2547 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2548 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2549 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2550 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
 
 
 
