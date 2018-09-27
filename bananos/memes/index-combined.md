@@ -2924,16 +2924,46 @@
 | 2538 |HeartlessJoker♠#8153| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470010244349820938/seekerwaso.png) |
 | 2539 |rah🦍🇨🇦#0704| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470042584589271040/BAN.png) |
 | 2540 |jesus#2308| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470058448969531392/unknown.png) |
-| 2541 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2542 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2543 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2544 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2545 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2546 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2547 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2548 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2549 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
-| 2550 |Keimtael#0181| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/469747612497608704/ai.jpg) |
+| 2541 |dlvs#0756| 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470065923953393685/californeewayban.jpg) |
+| 2542 |Beatrice#7931BOT| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/449734023770800129/asdasdad.png) |
+| 2543 |rah🦍🇨🇦#0704| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470215901954703371/BAN.png) |
+| 2544 |Super Betta Fish 🐠#3900| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470218863070674944/Screenshot_20180721-092131.png) |
+| 2545 |CoinOperated1245#9875| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470228192691486720/NANOSECRET.png) |
+| 2546 |HeartlessJoker♠#8153| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470233372141289474/749417.png) |
+| 2547 |CoinOperated1245#9875| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470242172999041034/acid_rain_banano.png) |
+| 2548 |HeartlessJoker♠#8153| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470244119760076809/321.png) |
+| 2549 |Noodles#2906| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470277184871858176/Manpan2.jpg) |
+| 2550 |El ZAMURO#7469| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470300919108599809/21740513_1387939181324182_891973983074347199_n.jpg) |
+| 2551 |HeartlessJoker♠#8153| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470309604157554689/images.gif) |
+| 2552 |Madasiaka#4876| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470309635354525697/20180721_115405.jpg) |
+| 2553 |Dev#8820| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470345321201926144/banano-mcafee.png) |
+| 2554 |Noodles#2906| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470361603259236354/37128840_445658069250654_886322851500523520_n.jpg) |
+| 2555 |Noodles#2906| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470368368197763073/37116399_445658119250649_9199968390691684352_n.jpg) |
+| 2556 |- M u z ! u ツ#7735| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470375013607014420/36429497_2220037798231301_1683258117787222016_n.jpg) |
+| 2557 |SpaceGodzilla#9125| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470403195076870157/Last_Jedi_Banano.jpg) |
+| 2558 |Dealer ♪ ‼#0067| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470419532721422337/coranos.png) |
+| 2559 |Dealer ♪ ‼#0067| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470419681422082049/seeker.png) |
+| 2560 |Dealer ♪ ‼#0067| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2561 |Joset_Bear#7442| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420574921949184/1532227158760.jpg) |
+| 2562 |Joset_Bear#7442| 2018-07-21 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470431671175348265/1532229974338.jpg) |
+| 2563 |Noodles#2906| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470453040445653007/37161067_445658275917300_820994612221968384_n.jpg) |
+| 2564 |Lee#2040| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470477461184970764/37610827_205581080296432_5505596110044921856_n.jpg) |
+| 2565 |Martidjen#0622| 2018-07-22 | ![](https://i.imgur.com/zhbMMof.gif) |
+| 2566 |Martidjen#0622| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470515855814295552/image.jpg) |
+| 2567 |Noodles#2906| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470580789000536074/37183264_445658882583906_5345177625545408512_n.jpg) |
+| 2568 |Noodles#2906| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470583674270908426/37236254_445658419250619_9128033267646201856_n.jpg) |
+| 2569 |Deleted User#0000| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470595097537413141/Video_20180722115039656_by_videoshow.gif) |
+| 2570 |CoinOperated1245#9875| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470596002789982228/Savage_Simplicity.png) |
+| 2571 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2572 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2573|Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2574 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2575 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2576 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2577 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2578 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2579 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
+| 2580 |Dealer ♪ ‼#0067| 2018-07-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470420166878953482/unknown.png) |
 
 
 
@@ -2941,8 +2971,6 @@
 
 
 
-| 130 | dlvs#0756   | 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470065923953393685/californeewayban.jpg) |
-| 131 | jesus r#9234   | 2018-07-20 | ![](https://cdn.discordapp.com/attachments/416341951416369153/470058448969531392/unknown.png) |
 
 
 
