@@ -62,6 +62,8 @@ const addChildElement = (parent, childType, childText) => {
   if (childText !== undefined) {
     if (childText instanceof HTMLImageElement) {
       child.appendChild(childText);
+    } else if (childText instanceof HTMLElement) {
+      child.appendChild(childText);
     } else if (childText instanceof Object) {
       createTableInElt(child, childText);
     } else {
