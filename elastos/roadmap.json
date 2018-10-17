@@ -69,7 +69,7 @@
         "startDate": "Oct 15 2018",
         "endDate": "Oct 22 2018",
         "taskName": "create GUI that takes private key, and the displays public key, account, utxos, and balance",
-        "status": "NOT STARTED"
+        "status": "RUNNING"
       },
       {
         "startDate": "Oct 15 2018",
