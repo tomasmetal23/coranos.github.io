@@ -60,22 +60,28 @@
         "status": "COMPLETED"
       },
       {
+        "startDate": "Oct 14 2018",
+        "endDate": "Oct 15 2018",
+        "taskName": "create GUI that takes private key, and the displays public key, account",
+        "status": "COMPLETED"
+      },
+      {
+        "startDate": "Oct 15 2018",
+        "endDate": "Oct 16 2018",
+        "taskName": "create GUI that displays transaction history",
+        "status": "COMPLETED"
+      },
+      {
+        "startDate": "Oct 17 2018",
+        "endDate": "Oct 22 2018",
+        "taskName": "create GUI that takes private key, and the displays utxos, and balance",
+        "status": "RUNNING"
+      },
+      {
         "startDate": "Oct 15 2018",
         "endDate": "Oct 22 2018",
         "taskName": "create a transaction that is byte-identical to ELA transaction.go (encode tx)",
         "status": "RUNNING"
-      },
-      {
-        "startDate": "Oct 15 2018",
-        "endDate": "Oct 22 2018",
-        "taskName": "create GUI that takes private key, and the displays public key, account, utxos, and balance",
-        "status": "RUNNING"
-      },
-      {
-        "startDate": "Oct 15 2018",
-        "endDate": "Oct 22 2018",
-        "taskName": "create GUI that displays transaction history",
-        "status": "NOT STARTED"
       },
       {
         "startDate": "Oct 15 2018",
