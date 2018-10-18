@@ -137,8 +137,16 @@
   {
     "startDate": "Nov 01 2018",
     "endDate": "Nov 15 2018",
-    "taskName": "Build ledger nano Elastos APP",
-    "status": "NOT STARTED"
+    "taskName": [
+      "Build ledger nano Elastos APP",
+      {
+        "startDate": "Sept 25 2018",
+        "endDate": "Sept 25 2018",
+        "taskName": "create github repo https://github.com/coranos/blue-app-elastos",
+        "status": "COMPLETED"
+      }
+    ],
+    "status": "RUNNING"
   },
   {
     "startDate": "Nov 16 2018",
